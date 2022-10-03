@@ -4,7 +4,7 @@ The video game industry has grown exponentially over the last decade. In 2020 al
 # Problem Statement
 In order to survive in the playing field and create games that can be successful, it is important to understand the factors which affect the popularity and sale of the game. 
 
-The question this project sets out to answer - “_Is it possible to predict how well the game will sell based on its characteristics?”
+The question this project sets out to answer - “_Is it possible to predict how well the game will sell based on its characteristics_?”
 
-Another question the analysis aims to answer - _“What are the common characteristics that define the best-selling games?”
+Another question the analysis aims to answer - “_What are the common characteristics that define the best-selling games_?”
 
